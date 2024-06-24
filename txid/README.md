@@ -85,8 +85,7 @@
 
 - 링크
 
-> https://emn178.github.io/online-tools/sha256.html
-> https://blockchain-academy.hs-mittweida.de/litte-big-endian-converter/
+> https://emn178.github.io/online-tools/sha256.html > https://blockchain-academy.hs-mittweida.de/litte-big-endian-converter/
 
 - sha 1회
 
@@ -104,7 +103,7 @@
 
 그럼 result 값의 각 부분이 어떤 의미인지 나누어서 알아봅시다.
 
-```json
+```txt
 {
   "result":
   "01
